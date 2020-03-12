@@ -8,8 +8,7 @@
 1.2 安装git
 
 2.注册github账号
-wangwenyu204
-1043938173@qq.com
+
 studentwangwenyu
 
 3.创建github仓库(repository)
