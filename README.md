@@ -1,6 +1,8 @@
 # wangwenyuMyGithubProject
 #创建基于githu得项目
+
 1.安装git
+
 1.1 下载git
 
 1.2 安装git
@@ -9,10 +11,12 @@
 wangwenyu204
 1043938173@qq.com
 studentwangwenyu
+
 3.创建github仓库(repository)
  仓库名字以姓名项目名方式命名，使用驼峰拼写
 
- 创建公钥私钥
+4.创建公钥私钥
+ 
 4.1 配置git账户
 
 4.2 创建密钥
